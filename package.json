@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.4",
+    "@rollup/plugin-node-resolve": "^15.2.1",
+    "rollup": "^3.29.2",
+    "rollup-plugin-svelte": "^7.1.6",
+    "svelte": "^4.2.1"
+  },
+  "name": "svelte-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "fsevents": "^2.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
